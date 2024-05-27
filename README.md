@@ -17,8 +17,13 @@ Clash Royale has gained a large, active player base across the globe due to its 
 
 Motivation: 
 
-I've been playing Clash Royale since 2021. In 2024, I decided to work on a data engineering project and aimed to find a decent and reliable data source for creating a data engineering and analytics project. After researching online, I discovered that many available data sources were too simple, and others had already been extensively used in existing projects. Additionally, some sources didn't interest me.
-To create a personal project that would be both useful and engaging, I started analyzing the applications I have used over the years. This led me to the idea of working on a project centered around the Clash Royale mobile game. Having played the game for a long time, I'm familiar with its intricacies, and this knowledge will help me in my project. My goal is to build a platform that can efficiently analyze various data from the game, ultimately helping me improve my gameplay.
+   I've been playing Clash Royale since 2021. In 2024, I decided to work on a data engineering project and aimed to find a decent and reliable data source for 	 
+   creating a data engineering and analytics project. After researching online, I discovered that many available data sources were too simple, and others had 	 
+   already been extensively used in existing projects. Additionally, some sources didn't interest me.
+   To create a personal project that would be both useful and engaging, I started analyzing the applications I have used over the years. This led me to the idea of 
+   working on a project centered around the Clash Royale mobile game. Having played the game for a long time, I'm familiar with its intricacies, and this 	 
+   knowledge will help me in my project. My goal is to build a platform that can efficiently analyze various data from the game, ultimately helping me improve 	my 
+   gameplay.
 
 
 Data Source:
