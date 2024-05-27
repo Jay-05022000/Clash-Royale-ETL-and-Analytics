@@ -22,6 +22,7 @@ To create a personal project that would be both useful and engaging, I started a
 Data Source:
 
 Clash Royale API: https://developer.clashroyale.com/
+
 Note: For each request to this API from different IP addresses, users need to generate unique API keys.
 
 
@@ -60,23 +61,32 @@ Visualizations:
 The Data Visualization report can be found here: 
 
 
+https://github.com/Jay-05022000/Clash-Royale-ETL-and-Analytics/blob/main/Clash%20Royale%20Interactive%20Visualization%20Report.pbix
 
+
+1) Clan Members’ Information Page
+
+   
 ![image](https://github.com/Jay-05022000/Clash-Royale-ETL-and-Analytics/assets/110780565/97136a7d-81fc-4b37-8fd2-d3cef1da2a8b)
-                                      [Clan Members’ Information Page]
+																			
 
+2) Personal account information & tracking page
 
+   
 ![image](https://github.com/Jay-05022000/Clash-Royale-ETL-and-Analytics/assets/110780565/d4b1cbdf-046d-4d92-8348-48c4230c74c9)
-                                      [Personal account information & tracking page.]
+                                      
 
+3) Available cards information page
 
+   
 ![image](https://github.com/Jay-05022000/Clash-Royale-ETL-and-Analytics/assets/110780565/69c51887-96b7-4362-8162-77f46c9a7714)
-                                      [Available cards information page.]
+                                    
 
+4) Top clans and players ranking page
 
+   
 ![image](https://github.com/Jay-05022000/Clash-Royale-ETL-and-Analytics/assets/110780565/fa729812-821d-4081-a707-96270fd35ce1)
-                                      [Top clans and players ranking page.]
-
-
+                                      
 
 Possible Extension of the project:
 
