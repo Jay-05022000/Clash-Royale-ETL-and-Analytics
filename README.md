@@ -1,5 +1,7 @@
                                                Clash Royale ETL and Analytics 
 
+![Databricks](https://a11ybadges.com/badge?logo=databricks)  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Amazon S3](https://a11ybadges.com/badge?logo=amazons3)
+
 
 Let’s brief ourselves about Clash Royale mobile game,
 
